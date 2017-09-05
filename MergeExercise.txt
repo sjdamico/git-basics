@@ -1,3 +1,5 @@
 Merge Exercise
 
 This file will be used to demonstrate a merge.
+
+This is a modification to this file.
